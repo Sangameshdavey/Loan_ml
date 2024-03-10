@@ -1,0 +1,6 @@
+male -1 female-0
+no-0 yes-1(married)
+gradute-0   not gradudate-1
+No-0 yes-1   (self empolyed)
+credit_history (0:bad 1:good)
+urban-2 rural-0  semiurb
